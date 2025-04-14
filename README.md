@@ -1,5 +1,7 @@
 # AI-Powered Hybrid Search Chatbot
 
+[Watch the video](https://github.com/QuratulAin20/AI-chatbot/blob/main/Neura-forge-AIchatbot.mp4)
+
 
 ## 📚 Project Overview
 This project implements an AI-powered chatbot that utilizes hybrid search techniques to provide answers based on a given text dataset. The chatbot leverages advanced retrieval methods to find relevant information and generate responses using a language model.
